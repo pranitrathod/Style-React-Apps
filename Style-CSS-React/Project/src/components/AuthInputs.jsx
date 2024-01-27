@@ -12,7 +12,6 @@ export default function AuthInputs() {
       setEnteredPassword(value);
     }
   }
-
   function handleLogin() {
     setSubmitted(true);
   }
@@ -42,6 +41,7 @@ export default function AuthInputs() {
           />
         </p>
       </div>
+<p>HELLO</p>
       <div className="actions">
         <button type="button" className="text-button">
           Create a new account
