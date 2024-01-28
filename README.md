@@ -1,5 +1,5 @@
 <h1>
-  <b>
+  <i>
 <ol>
 <li>Inline-css</li>
 <li>Styled Components</li>
