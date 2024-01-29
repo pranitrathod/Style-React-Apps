@@ -20,12 +20,10 @@ const BUTTON=styled.button`
   background-color: #f0b322;
   border-radius: 6px;
   border: none;
-
   &:hover{
     background-color: red;
   }
 `
-
 const Controller = styled.div`
   display: flex;
   flex-direction: column;
