@@ -21,7 +21,7 @@ const BUTTON=styled.button`
   border-radius: 6px;
   border: none;
   &:hover{
-    background-color: red;
+    background-color: yellow;
   }
 `
 const Controller = styled.div`
